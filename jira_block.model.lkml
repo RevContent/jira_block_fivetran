@@ -1,4 +1,4 @@
-connection: "fivetran_jira"
+connection: "snowflake-p0"
 
 # include all the views
 include: "*.view"
