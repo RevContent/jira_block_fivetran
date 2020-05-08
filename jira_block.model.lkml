@@ -1,4 +1,4 @@
-connection: "snowflake-p0"
+connection: "snowflake-jira"
 
 # include all the views
 include: "*.view"
