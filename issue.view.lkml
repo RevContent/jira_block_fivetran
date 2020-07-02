@@ -25,11 +25,6 @@ view: issue {
     type: string
     sql: ${TABLE}.external_issue_id ;;
   }
-  
-  dimension: title {
-    type: string
-    sql: ${TABLE}.title ;;
-  }
 
   dimension: _original_estimate {
     type: number
